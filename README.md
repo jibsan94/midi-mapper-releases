@@ -5,7 +5,9 @@ App para la barra de menús de macOS que convierte lo que tocas en tu controlado
 Aquí solo están las **versiones publicadas** (el código es privado).
 
 ## Descargar
-Descarga el `.dmg` de la [última versión](https://github.com/jibsan94/midi-mapper-releases/releases/latest), ábrelo y arrastra la app a Aplicaciones.
+**[⬇︎ Descargar MIDI Mapper (última versión)](https://github.com/jibsan94/midi-mapper-releases/releases/latest/download/MIDI-Mapper.dmg)**
+
+Ábrelo y arrastra la app a Aplicaciones.
 
 La app aún no está notarizada: la primera vez, ábrela y luego ve a Ajustes del Sistema › Privacidad y seguridad › «Abrir igualmente».
 
